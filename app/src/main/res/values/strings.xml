@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FBLoginTest</string>
+    <string name="action_settings">Settings</string>
+    <!--For Facebook-->
+    <string name="facebook_app_id">297016660777203</string>
+    <string name="fb_login_protocol_scheme">fb297016660777203</string>
+    <!--For Twitter-->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">wE3oHbX0ib2qVySl9FrRFhjnl</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">sjqV70gsQbMjyezxRCYxwpP5NylRLOjQmKLvJIE5fnqxlEvVN5</string>
+    <!--FOr Google Plus-->
+    <string name="server_client_id">445325819891-v1mgto2kjou6li9r1phd5gieb4343qnm.apps.googleusercontent.com</string>
+</resources>
